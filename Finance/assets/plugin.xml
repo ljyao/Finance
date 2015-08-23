@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 包命名方式为 id-versions.date -->
+<!-- 插件提供的功能(类) -->
+<!-- 插件的唯一标识 -->
+<!-- 插件的名称，可以不唯一 -->
+<!-- 启动优先级启动数字越大启动越晚 -->
+<!-- 加载后立即启动  当插件为其他插件子插件是就无效 -->
+<plugin-features
+    Bundle-Activator="org.weixvn.finance.SimpleBundle"
+    Bundle-Activity="org.weixvn.finance.LoginActivity"
+    Bundle-Name="报账叫号"
+    Bundle-SymbolicName="org.weixvn.finance"
+    Bundle-UpdateLocation=""
+    Bundle-Version="1.0.1"
+    Install="false"
+    Uninstall="1"
+    date="2014.6.5"
+    plugin_id="1003"
+    provider-name="Weixvn"
+    provider-url=""
+    start-level="1"
+    start-up="true" >
+
+</plugin-features>
